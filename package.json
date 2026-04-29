@@ -2,13 +2,13 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "Node.js Server",
-  "main": "index.js",
+  "main": "app.js",
   "author": "",
   "repository": "",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "ws": "^8.14.2",
